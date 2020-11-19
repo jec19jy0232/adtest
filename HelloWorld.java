@@ -1,4 +1,5 @@
 class HelloWorld{
-  //hogehogehoge
-  }
-  
+	int i;
+	String Hello = "HelloWorld";
+}
+
